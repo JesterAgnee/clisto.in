@@ -1,10 +1,22 @@
-Learn free Python- Codings at my site (https://www.clisto.in)
+# R. Agneesh Waran - Backend Developer & AI Specialist
 
-## My Web Game - Hungry Daruma
+## 🚀 Projects & Resources
 
-Check out my game website [here](https://www.clisto.in/clisto_hungry_daruma.php) to play the game!
+### 🐍 Learn Python for Free
+Visit my OWN LLMS trial version which do grammar check and emotional Analysis .
 
-<!---
-JesterAgnee/JesterAgnee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 [https://www.clisto.in](https://www.clisto.in)
+
+### 🧠 LLM Development Expertise
+Specializing in Large Language Model development through custom JavaScript modules. Creating innovative solutions for AI applications.
+
+## 💻 Technical Skills
+- **AI Development**: Custom LLMs, NLP, Chatbots, Recommendation Systems
+- **Backend**: REST APIs, JavaScript, Database Integration
+- **Databases**: PostgreSQL, MySQL, Query Optimization
+- **Data Engineering**: ETL Pipelines, Data Warehousing
+
+## 📫 Connect With Me
+- LinkedIn: [Agneesh Waran](https://www.linkedin.com/in/agneesh-waran-34b3711a1)
+- Email: jesteragneesh360@gmail.com
+- Phone: +91 9360494633
